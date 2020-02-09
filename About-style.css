@@ -49,9 +49,9 @@ body{
 	margin: 0;
 	background:url("images/OI4K8P0.jpg")no-repeat;
 	background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    	background-position: center;
+    	background-repeat: no-repeat;
+    	background-size: cover;
 	line-height: 1.0;
 }
 #tmp_mainvisual{
@@ -146,9 +146,9 @@ body{
 }
 #tmp_main_text{
 	width: 37%;
-    height: 270px;
-    position: absolute;
-    background: url("images/old-letter.png") no-repeat;
+    	height: 270px;
+    	position: absolute;
+    	background: url("images/old-letter.png") no-repeat;
 	background-size: 100% auto;
 	top: 330px;
 	right: 128px;
@@ -160,11 +160,11 @@ body{
 }
 #tmp_wrap_body #tmp_body #to{
 	width: 49%;
-    background: url("images/tobG.png") no-repeat;
-    position: relative;
-    perspective: 500px;
-    margin: 255px auto;
-    height: 359px;
+    	background: url("images/tobG.png") no-repeat;
+   	position: relative;
+    	perspective: 500px;
+    	margin: 255px auto;
+   	height: 359px;
 	box-shadow: -7px 9px 22px #6c5957;
 }
 #tmp_wrap_body #tmp_body #to #nho{
